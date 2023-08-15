@@ -14,7 +14,7 @@ This repository contains MATLAB scripts for analyzing connectivity between the J
 ## Installation
 To install, clone the repository to your local machine:
 ```
-git clone https://github.com/yourusername/yourrepository.git
+git clone https://github.com/seanfw/macaque-pfc-func-conn.git
 ```
 You will also need MATLAB to run these scripts. The scripts were developed and tested on MATLAB R2019a. 
 
